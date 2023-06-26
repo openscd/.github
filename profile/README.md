@@ -21,4 +21,4 @@ Our product gives you flexibility and control over your own roadmap, and this ul
 ## Code of Conduct
 
 The OpenSCD community uses the Contributor Covenant for community guidelines. 
-[Code of Conduct](code_of_conduct.md)
+[Code of Conduct](https://github.com/openscd/.github/blob/main/profile/code_of_conduct.md)
