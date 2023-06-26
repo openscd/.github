@@ -18,7 +18,7 @@ Our product gives you flexibility and control over your own roadmap, and this ul
 👉 Downstream project with back-end services: https://github.com/com-pas  
 👉 Slack channel: #openscd on https://lfenergy.slack.com
 
-## Code of Conduct
+## Community
 
-The OpenSCD community uses the Contributor Covenant for community guidelines. 
+The OpenSCD community uses the Contributor Covenant for community guidelines.  
 [Code of Conduct](https://github.com/openscd/.github/blob/main/profile/code_of_conduct.md)
