@@ -1,0 +1,18 @@
+.header {
+    height: 86px;
+    background: #FFFFFF;
+    padding: 11px 32px;
+    display: flex;
+
+    .nav {
+        display: flex;
+        gap: 32px;
+        align-items: center;
+
+        &__item {
+            padding: 8px;
+            color: #323232;
+            text-decoration: none;
+        }
+    }
+}

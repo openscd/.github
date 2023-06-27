@@ -1,0 +1,64 @@
+.terminal {
+    text-align: left;
+    border-radius: 10px;
+    position: relative;
+
+    &__copy-button {
+        position: absolute;
+        top: 36px;
+        right: 8px;
+        background: none;
+        padding: 0;
+        margin: 0;
+        border: none;
+        color: #FFFFFF;
+        cursor: pointer;
+    }
+    
+    &__header {
+        background: #E0E8F0;
+        height: 30px;
+        border-radius: 8px 8px 0 0;
+        padding-left: 10px;
+    }
+
+    &__button {
+        width: 12px;
+        height: 12px;
+        margin: 10px 4px 0 0;
+        display: inline-block;
+        border-radius: 8px;
+
+        &--green {
+            background: #3BB662;
+        }
+
+        &--yellow {
+            background: #E5C30F;
+        }
+
+        &--red {
+            background: #E75448;
+        }
+        
+    }
+
+    &__window {
+        color: white;
+        font-family: Menlo, Monaco, "Consolas", "Courier New", "Courier";
+        font-size: 11pt;
+        background: #30353A;
+        padding: 26px 10px 10px 10px;
+        box-sizing: border-box;
+        border-radius: 0 0 10px 10px;
+    }
+
+    .highlight {
+        background: none;
+
+        pre {
+            white-space: initial;
+        }
+    }
+
+}

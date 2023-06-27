@@ -1,0 +1,54 @@
+.card {
+  border-radius: 5px;
+  background: #FFFFFF;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.08), 0 2px 5px rgba(0, 0, 0, 0.1), 0 4px 7px rgba(0, 0, 0, 0.13);
+}
+.card__header {
+  padding: 16px;
+  font-size: 1.6em;
+}
+.card__content {
+  padding: 16px;
+  text-align: center;
+}
+.card__content--left {
+  text-align: left;
+}
+.card__actions {
+  padding: 16px;
+}
+.card__icon {
+  padding: 16px;
+  text-align: center;
+}
+.card__icon i {
+  font-size: 4.2em;
+}
+
+.card-rotate__wrapper {
+  position: relative;
+  width: 100%;
+  height: 100%;
+}
+.card-rotate__wrapper .card {
+  transition: transform 0.64s ease-in-out;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  backface-visibility: hidden;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  width: 100%;
+  height: 100%;
+}
+.card-rotate__wrapper .card--back {
+  transforM: rotateY(180deg);
+}
+.card-rotate__wrapper--back-shown .card--back {
+  transform: rotateY(0deg);
+}
+.card-rotate__wrapper--back-shown .card--front {
+  transform: rotateY(-180deg);
+}
