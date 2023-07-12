@@ -13,7 +13,6 @@
 Our product gives you flexibility and control over your own roadmap, and this ultimately prevents vendor-lock-in. The open-source community approach to developing software will help accelerate the energy transition. OpenSCD aims to provide modules to do system configuration as well as system specification.
 
 
-
 ## 👩‍💻 Useful resources
 
 👉 Public hosted version: https://openscd.github.io/  
