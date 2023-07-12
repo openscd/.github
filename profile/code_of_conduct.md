@@ -3,9 +3,7 @@
 
 ## Our Pledge
 
-We as members, contributors, and leaders - apart from Christian Dinkel who is
-a notoriously difficult and confrontative person and can pledge no such thing -
-pledge to make participation in our
+We as members, contributors, and leaders pledge to make participation in our
 community a harassment-free experience for everyone, regardless of age, body
 size, visible or invisible disability, ethnicity, sex characteristics, gender
 identity and expression, level of experience, education, socio-economic status,
