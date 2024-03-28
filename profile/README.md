@@ -1,16 +1,23 @@
-<div align="center">
-  <img alt="OpenSCD Header Picture" src="https://raw.githubusercontent.com/openscd/.github/main/profile/assets/header.png">
- </div>
+ <p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/openscd-logo-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/openscd-logo-light.svg">
+    <img alt="OpenSCD Header Picture" src="./assets/openscd-logo-dark.svg">
+  </picture>
+</p>
 
-# ⚡️ OpenSCD - IEC 61850 SCL editing tool​
 
-**For:** utility/integrator/vendor companies​  
-**Who want:** to enable fully digital substations - from design and commissioning through to maintenance and replacement
+# ⚡️ OpenSCD - IEC 61850 SCL editing tool
+
+**For:** utility/integrator/vendor companies
+**Who want:** to enable fully digital substations - from design and commissioning through to maintenance and replacement
 
 **OpenSCD** is an ecosystem that allows flexibility, agility and efficiency in SCL configuration
-**That offers:** a web front-end, open-source, extensible, customizable, user-friendly SCL editing​  
+**That offers:** a web front-end, open-source, extensible, customizable, user-friendly SCL editing
 
-Our product gives you flexibility and control over your own roadmap, and this ultimately prevents vendor-lock-in. The open-source community approach to developing software will help accelerate the energy transition. OpenSCD aims to provide modules to do system configuration as well as system specification.
+Our product gives you flexibility and control over your own roadmap, and this ultimately prevents vendor-lock-in.
+The open-source community approach to developing software will help accelerate the energy transition.
+OpenSCD aims to provide modules to do system configuration as well as system specification.
 
 
 ## 👩‍💻 Useful resources
