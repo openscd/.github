@@ -1,7 +1,7 @@
  <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/openscd-logo-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="./assets/openscd-logo-light.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/openscd-logo-white.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/openscd-logo-color.svg">
     <img alt="OpenSCD Header Picture" src="./assets/openscd-logo-dark.svg">
   </picture>
 </p>
