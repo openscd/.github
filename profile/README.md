@@ -15,9 +15,9 @@
 **OpenSCD** is an ecosystem that allows flexibility, agility and efficiency in SCL configuration
 **That offers:** a web front-end, open-source, extensible, customizable, user-friendly SCL editing
 
-Our product gives you flexibility and control over your own roadmap, and this ultimately prevents vendor-lock-in.
-The open-source community approach to developing software will help accelerate the energy transition.
-OpenSCD aims to provide modules to do system configuration as well as system specification.
+Our product gives you flexibility and control over your own roadmap, and this ultimately prevents vendor-lock-in.  
+The open-source community approach to developing software will help accelerate the energy transition.  
+OpenSCD aims to provide modules to do system configuration as well as system specification.  
 
 
 ## 👩‍💻 Useful resources
@@ -25,7 +25,7 @@ OpenSCD aims to provide modules to do system configuration as well as system spe
 👉 Public hosted version: https://openscd.github.io/  
 👉 End-user manual: https://github.com/openscd/open-scd/wiki  
 👉 Downstream project with back-end services: https://github.com/com-pas  
-👉 Slack channel: #openscd on https://lfenergy.slack.com
+👉 Zulip chat: Join us on [Zulip](https://openscd.zulipchat.com)
 
 ## Community
 
