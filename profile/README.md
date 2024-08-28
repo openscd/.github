@@ -25,7 +25,7 @@ OpenSCD aims to provide modules to do system configuration as well as system spe
 👉 Public hosted version: https://openscd.github.io/  
 👉 End-user manual: https://github.com/openscd/open-scd/wiki  
 👉 Downstream project with back-end services: https://github.com/com-pas  
-👉 Slack channel: #openscd on https://lfenergy.slack.com
+👉 Zulip chat: Join us on [Zulip](https://openscd.zulipchat.com)
 
 ## Community
 
