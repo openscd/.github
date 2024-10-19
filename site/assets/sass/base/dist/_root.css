@@ -1,0 +1,77 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400&display=swap");
+/**
+ * Set up a decent box model on the root element
+ */
+html {
+  box-sizing: border-box;
+}
+
+/**
+ * Make all elements from the DOM inherit from the parent box-sizing
+ * Since `*` has a specificity of 0, it does not override the `html` value
+ * making all elements inheriting from the root box-sizing value
+ * See: https://css-tricks.com/inheriting-box-sizing-probably-slightly-better-best-practice/
+ */
+*, ::before, ::after {
+  box-sizing: inherit;
+}
+
+* {
+  font-family: "Roboto", sans-serif;
+}
+
+html, body {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  width: 100%;
+}
+
+.content {
+  height: calc(100% - 86px);
+  background: #d1d1d1;
+  padding: 32px;
+}
+
+aside {
+  width: 320px;
+}
+
+.main {
+  height: 100%;
+  flex: 1;
+  overflow: auto;
+}
+
+.content:has(aside) {
+  display: flex;
+  gap: 32px;
+}
+
+.content aside {
+  width: 320px;
+}
+
+.plugins {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 16px;
+}
+
+.logo {
+  max-height: 64px;
+  margin-right: 32px;
+}
+
+.components {
+  display: grid;
+  grid-template-columns: repeat(5, 1fr);
+  gap: 32px;
+}
+.components .component__logos {
+  display: flex;
+  gap: 8px;
+}
+.components .component__logos .component__logo {
+  max-height: 16px;
+}
